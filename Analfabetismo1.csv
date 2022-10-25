@@ -1,4 +1,4 @@
-Regiao;Cor_Raca;ANO;SEXO;POPULACAO_ANALFABETA
+regiao;cor_raca;ano;sexo;populacao_analfabeta
 Norte;Branca;1995;Masculino;52.460
 Norte;Negra;1995;Masculino;238.012
 Nordeste;Branca;1995;Masculino;916.136
